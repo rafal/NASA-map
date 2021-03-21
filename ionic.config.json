@@ -1,0 +1,7 @@
+{
+  "name": "nasa-map",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
